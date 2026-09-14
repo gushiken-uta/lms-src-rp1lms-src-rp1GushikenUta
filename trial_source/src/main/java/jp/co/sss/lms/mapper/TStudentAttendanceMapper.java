@@ -64,5 +64,11 @@ public interface TStudentAttendanceMapper {
 	 * @return 更新結果
 	 */
 	Boolean update(TStudentAttendance tStudentAttendance);
+	
+	/**
+	 * 練習
+	 * 
+	 */
+	Integer 
 
 }
