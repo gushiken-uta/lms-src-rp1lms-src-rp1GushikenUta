@@ -69,6 +69,6 @@ public interface TStudentAttendanceMapper {
 	 * 練習
 	 * 
 	 */
-	Integer 
+
 
 }
